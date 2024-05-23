@@ -1,0 +1,313 @@
+
+
+
+/* About */
+
+@media only screen and (max-width: 1024px) 
+{
+
+    .arabouth3
+    {
+        margin-left: -30px;
+    }
+
+    .araboutuspra
+    {
+        margin-left: -30px;
+    }
+
+    .araboutbtn
+    {
+        margin-left: -30px;
+    }
+
+    #araboutimg {
+        margin-top: 31px;
+        margin-left: 92px;
+        width: 361px;
+        height: 405px;
+    }
+    
+    
+    .card {
+        margin-top: 80px;
+        margin-left: 132px;
+        width: 14rem;
+        border: none;
+      }
+
+      .arourprojecth3 {
+        margin-top: 30px;
+        margin-left: -211px;
+      }
+
+      #arourprojectimg1 {
+        margin-top: 70px;
+        margin-left: 91px;
+        width: 450px;
+        height: 450px;
+      }
+
+      .arourproject2h3 {
+        margin-top: 150px;
+        margin-left: -61px;
+      }
+
+      .contact_img-box img {
+        width: 80%;
+        margin-top: -70px;
+        margin-left: 57px;
+      }
+
+      .arinfosocialicon {
+        margin-top: 50px;
+        margin-left: 108px;
+      }
+
+      .arinfodiv2 img {
+        height: 450px;
+        width: 600px;
+        margin-top: 30px;
+        margin-left: -133px;
+      }
+
+
+}
+
+@media only screen and (max-width: 912px) 
+{
+
+    .arabouth3
+    {
+        margin-left: 22px;
+    }
+
+    .araboutuspra
+    {
+        margin-left: 22px;
+    }
+
+    .araboutbtn
+    {
+        margin-left: 22px;
+    }
+
+    #araboutimg {
+        margin-top: 34px;
+        margin-left: 90px;
+        width: 324px;
+        height: 547px;
+    }
+    
+    .card {
+        margin-top: 80px;
+        margin-left: 110px;
+        width: 14rem;
+        border: none;
+        padding-right: 16px;
+      }
+
+      .card-img-top {
+        width: 11rem;
+        height: 11rem;
+        border-radius: 40%;
+      }
+
+      .card-title {
+        font-style: italic;
+        font-size: 25px;
+        font-weight: 500;
+        margin-right: 35px;
+      }
+
+      .card-text {
+        text-align: justify;
+        margin-right: 27px;
+      }
+
+      .arourprojecth3 {
+        margin-top: 30px;
+        margin-left: -160px;
+      }
+
+      .arourproject2h3 {
+        margin-top: 150px;
+        margin-left: -20px;
+      }
+
+      .armoreprojectbtn {
+        margin-top: 40px;
+      }
+
+      .arinfodiv2 img {
+        height: 341px;
+        width: 518px;
+        margin-top: 53px;
+        margin-left: -133px;
+      }
+
+
+}
+
+@media only screen and (max-width: 768px) 
+{
+
+    #araboutdivfirst
+    {
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+    
+
+    .arabouth3 {
+        margin-left: 102px;
+      }
+
+
+    .araboutuspra {
+        margin-left: 165px;
+        margin-right: 27px;
+      }
+
+      .araboutbtn {
+        margin-left: 111px;
+      }
+
+      #araboutdivsecond
+      {
+          width: 100%;
+          height: auto;
+          text-align: center;
+      }
+
+      .card {
+        margin-left: 87px;
+      }
+
+      #arprojectdivfirst
+    {
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+
+    .arourprojecth3 {
+        margin-top: 30px;
+        margin-left: -22px;
+      }
+
+      .arourprojectpra {
+        font-style: italic;
+        margin-top: 30px;
+        margin-left: 28px;
+        margin-bottom: 30px;
+        text-align: justify;
+        margin-right: 26px;
+      }
+
+      #arourprojectimg1 {
+        margin-top: 70px;
+        margin-left: -20px;
+        width: 450px;
+        height: 450px;
+      }
+
+    #arprojectdivsecond
+    {
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+
+    #arourproject2divfirst
+    {
+        position: relative;
+        top: 350px;
+        width: 100%;
+    }
+
+    .arourproject2h3 {
+        margin-top: 150px;
+        margin-left: -50px;
+      }
+
+      .arourproject2pra {
+        margin-right: -215px;
+        font-style: italic;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: justify;
+        margin-left: -215px;
+      }
+
+    #arourproject2divsecond
+    {
+        position: relative;
+        width: 100%;
+        top: -625px;
+    }
+
+    .arourproject2pra {
+        margin-right: 25px;
+        font-style: italic;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: justify;
+        margin-left: 25px;
+      }
+
+      #arourproject2img1 {
+        margin-top: 150px;
+        margin-left: -7px;
+        width: 450px;
+        height: 450px;
+      }
+
+      .armoreprojectbtn {
+        margin-top: -90px;
+      }
+
+      .arinfosection
+      {
+        position: relative;
+      }
+
+      .arinfodiv2
+      {
+        position: relative;
+        width: 100%;
+        top: -500px;
+      }
+
+      .arinfodiv2 img {
+        height: 341px;
+        width: 518px;
+        margin-top: 53px;
+        margin-left: 110px;
+      }
+
+      .arinfodiv1
+      {
+        position: relative;
+        width: 100%;
+        top: 350px;
+      }
+
+      .aruldiv1, .aruldiv2 {
+        margin-left: 40px;
+        margin-top: 100px;
+      }
+
+      .arinfosocialicon {
+        margin-top: 50px;
+        margin-left: 235px;
+      }
+
+      .arfooter {
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 40px;
+      }
+
+}
